@@ -9,5 +9,9 @@ https://www.anaconda.com/download/
 2. Cài đặt tensorflow
 conda install -c conda-forge tensorflow 
 
-3. Khởi động môi trường soạn thảo, chạy python
+3. Clone github
+git clone https://github.com/ferrygun/AIFlowers2
+và thay các file trong thư mục AIFlowers2 vào
+
+4. Khởi động môi trường soạn thảo, chạy python
 jupyter-notebook
